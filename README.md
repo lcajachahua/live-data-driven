@@ -2,6 +2,6 @@
 
 Materiales del Youtube Live del 11-Jun-2020
 
-Puedes descargar la presentación haciendo clic [AQUI](Decisiones Data Driven.pdf)
+Puedes descargar la presentación haciendo clic [AQUI](docs/Decisiones Data Driven.pdf)
 
-![Portada](Decisiones Data Driven.png)
+![Portada](docs/Decisiones Data Driven.png)
