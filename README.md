@@ -35,9 +35,3 @@ La presentación contiene enlaces a los artículos citados, esta colección de r
 
 
 
-## Recursos de Aprendizaje
-
-Aqui una compilación de recursos y lugares donde puedes aprender más sobre datos y análisis.
-
-[En construcción]
-
